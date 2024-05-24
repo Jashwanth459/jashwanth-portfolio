@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jashwanth-portfolio/static/css/main.02e7db51.css",
-    "main.js": "/jashwanth-portfolio/static/js/main.a40f4e6c.js",
-    "static/media/web-streamer-logo.png": "/jashwanth-portfolio/static/media/web-streamer-logo.5ee1b035215a98b22d97.png",
+    "main.js": "/jashwanth-portfolio/static/js/main.9780f47f.js",
+    "static/media/web-streamer-logo.png": "/jashwanth-portfolio/static/media/web-streamer-logo.9028aff4db09f6130133.png",
     "static/media/market-place-logo.png": "/jashwanth-portfolio/static/media/market-place-logo.15597a90e5562add23de.png",
     "static/media/spotify-logo.png": "/jashwanth-portfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
     "static/media/fur-ever-search.png": "/jashwanth-portfolio/static/media/fur-ever-search.99ce8fcc2d56e11a7f2f.png",
@@ -89,10 +89,10 @@
     "index.html": "/jashwanth-portfolio/index.html",
     "static/media/stepfunctions-logo.svg": "/jashwanth-portfolio/static/media/stepfunctions-logo.fb293bc15fb40d22467f.svg",
     "main.02e7db51.css.map": "/jashwanth-portfolio/static/css/main.02e7db51.css.map",
-    "main.a40f4e6c.js.map": "/jashwanth-portfolio/static/js/main.a40f4e6c.js.map"
+    "main.9780f47f.js.map": "/jashwanth-portfolio/static/js/main.9780f47f.js.map"
   },
   "entrypoints": [
     "static/css/main.02e7db51.css",
-    "static/js/main.a40f4e6c.js"
+    "static/js/main.9780f47f.js"
   ]
 }
