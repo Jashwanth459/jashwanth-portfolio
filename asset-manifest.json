@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jashwanth-portfolio/static/css/main.02e7db51.css",
-    "main.js": "/jashwanth-portfolio/static/js/main.c2d66f79.js",
+    "main.js": "/jashwanth-portfolio/static/js/main.c54ca76d.js",
     "static/media/web-streamer-logo.png": "/jashwanth-portfolio/static/media/web-streamer-logo.9028aff4db09f6130133.png",
     "static/media/market-place-logo.png": "/jashwanth-portfolio/static/media/market-place-logo.15597a90e5562add23de.png",
     "static/media/spotify-logo.png": "/jashwanth-portfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
@@ -89,10 +89,10 @@
     "index.html": "/jashwanth-portfolio/index.html",
     "static/media/stepfunctions-logo.svg": "/jashwanth-portfolio/static/media/stepfunctions-logo.fb293bc15fb40d22467f.svg",
     "main.02e7db51.css.map": "/jashwanth-portfolio/static/css/main.02e7db51.css.map",
-    "main.c2d66f79.js.map": "/jashwanth-portfolio/static/js/main.c2d66f79.js.map"
+    "main.c54ca76d.js.map": "/jashwanth-portfolio/static/js/main.c54ca76d.js.map"
   },
   "entrypoints": [
     "static/css/main.02e7db51.css",
-    "static/js/main.c2d66f79.js"
+    "static/js/main.c54ca76d.js"
   ]
 }
