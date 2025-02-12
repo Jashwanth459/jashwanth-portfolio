@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jashwanth-portfolio/static/css/main.02e7db51.css",
-    "main.js": "/jashwanth-portfolio/static/js/main.1eca22df.js",
+    "main.js": "/jashwanth-portfolio/static/js/main.1bacb57b.js",
     "static/media/web-streamer-logo.png": "/jashwanth-portfolio/static/media/web-streamer-logo.9028aff4db09f6130133.png",
     "static/media/market-place-logo.png": "/jashwanth-portfolio/static/media/market-place-logo.15597a90e5562add23de.png",
     "static/media/spotify-logo.png": "/jashwanth-portfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
@@ -82,17 +82,29 @@
     "static/media/linkedin-logo.webp": "/jashwanth-portfolio/static/media/linkedin-logo.4c60124886e81a0d124d.webp",
     "static/media/playwright-logo.svg": "/jashwanth-portfolio/static/media/playwright-logo.4771f906084f1a2884b6.svg",
     "static/media/bitbucket-logo.webp": "/jashwanth-portfolio/static/media/bitbucket-logo.f46ce5315f79f48beaa6.webp",
+    "static/media/gcp-apigateway-logo.svg": "/jashwanth-portfolio/static/media/gcp-apigateway-logo.225932b3bacdf5069293.svg",
     "static/media/redux-logo.svg": "/jashwanth-portfolio/static/media/redux-logo.5d8e62576962cec20ce9.svg",
     "static/media/storybook-logo.svg": "/jashwanth-portfolio/static/media/storybook-logo.c143760c5be7f175b06e.svg",
     "static/media/apigateway-logo.svg": "/jashwanth-portfolio/static/media/apigateway-logo.1de9f8ac8c5d4da21744.svg",
+    "static/media/gcp-workflows-logo.svg": "/jashwanth-portfolio/static/media/gcp-workflows-logo.dc338213bd10bede1e31.svg",
     "static/media/java-logo.svg": "/jashwanth-portfolio/static/media/java-logo.a751bad6c81431ab4dd6.svg",
+    "static/media/gcp-pubsub-logo.svg": "/jashwanth-portfolio/static/media/gcp-pubsub-logo.f5f953299cf352b82c38.svg",
+    "static/media/gcp-computeengine-logo.svg": "/jashwanth-portfolio/static/media/gcp-computeengine-logo.8e259c921d506ab6b146.svg",
+    "static/media/gcp-cloudcdn-logo.svg": "/jashwanth-portfolio/static/media/gcp-cloudcdn-logo.666bc9a9bafa2185cc2d.svg",
     "index.html": "/jashwanth-portfolio/index.html",
+    "static/media/gcp-cloudfunction-logo.svg": "/jashwanth-portfolio/static/media/gcp-cloudfunction-logo.35d5aacf8e441f0bcfcb.svg",
     "static/media/stepfunctions-logo.svg": "/jashwanth-portfolio/static/media/stepfunctions-logo.fb293bc15fb40d22467f.svg",
+    "static/media/gcp-clouddeploymentmanager-logo.svg": "/jashwanth-portfolio/static/media/gcp-clouddeploymentmanager-logo.7fe4d831917ef3ca6bc3.svg",
+    "static/media/gcp-cloudstorage-logo.svg": "/jashwanth-portfolio/static/media/gcp-cloudstorage-logo.b9679997c1633a26582f.svg",
+    "static/media/gcp-gke-logo.svg": "/jashwanth-portfolio/static/media/gcp-gke-logo.f254cf1a828ecc0be840.svg",
+    "static/media/gcp-clouddns-logo.svg": "/jashwanth-portfolio/static/media/gcp-clouddns-logo.ef58ecc750dd78f5bea4.svg",
+    "static/media/gcp-cloudbuild-logo.svg": "/jashwanth-portfolio/static/media/gcp-cloudbuild-logo.ead26b75d7a2af103498.svg",
+    "static/media/gcp-monitoring-logo.svg": "/jashwanth-portfolio/static/media/gcp-monitoring-logo.2926957440a18be7c21d.svg",
     "main.02e7db51.css.map": "/jashwanth-portfolio/static/css/main.02e7db51.css.map",
-    "main.1eca22df.js.map": "/jashwanth-portfolio/static/js/main.1eca22df.js.map"
+    "main.1bacb57b.js.map": "/jashwanth-portfolio/static/js/main.1bacb57b.js.map"
   },
   "entrypoints": [
     "static/css/main.02e7db51.css",
-    "static/js/main.1eca22df.js"
+    "static/js/main.1bacb57b.js"
   ]
 }
