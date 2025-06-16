@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jashwanth-portfolio/static/css/main.02e7db51.css",
-    "main.js": "/jashwanth-portfolio/static/js/main.fe152799.js",
+    "main.js": "/jashwanth-portfolio/static/js/main.8b4aa14d.js",
     "static/media/web-streamer-logo.png": "/jashwanth-portfolio/static/media/web-streamer-logo.9028aff4db09f6130133.png",
     "static/media/market-place-logo.png": "/jashwanth-portfolio/static/media/market-place-logo.15597a90e5562add23de.png",
     "static/media/spotify-logo.png": "/jashwanth-portfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
@@ -101,10 +101,10 @@
     "static/media/gcp-cloudbuild-logo.svg": "/jashwanth-portfolio/static/media/gcp-cloudbuild-logo.ead26b75d7a2af103498.svg",
     "static/media/gcp-monitoring-logo.svg": "/jashwanth-portfolio/static/media/gcp-monitoring-logo.2926957440a18be7c21d.svg",
     "main.02e7db51.css.map": "/jashwanth-portfolio/static/css/main.02e7db51.css.map",
-    "main.fe152799.js.map": "/jashwanth-portfolio/static/js/main.fe152799.js.map"
+    "main.8b4aa14d.js.map": "/jashwanth-portfolio/static/js/main.8b4aa14d.js.map"
   },
   "entrypoints": [
     "static/css/main.02e7db51.css",
-    "static/js/main.fe152799.js"
+    "static/js/main.8b4aa14d.js"
   ]
 }
